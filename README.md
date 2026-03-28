@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hi, I'm Zubair 👋
+
+🎓 Software Engineering Student  
+💡 Interested in building real-world projects  
+🚀 Currently learning and exploring new technologies  
+
+## Goals
+- Build strong development skills  
+- Work on impactful projects  
+- Grow in the tech industry  
+
+## Connect with me
+- LinkedIn: (add your link here)
 
 <!--
 **zubairabid001/zubairabid001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
