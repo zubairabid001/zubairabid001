@@ -10,12 +10,12 @@
 - Grow in the tech industry  
 
 ## Connect with me
-- LinkedIn: (add your link here)
+- LinkedIn: www.linkedin.com/in/zubairabid001
 
 <!--
 **zubairabid001/zubairabid001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get yo
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
